@@ -1,3 +1,2 @@
 CV en ligne Lucas KRELL
-lckrl.netlify.app
-Copyright © Lucas KRELL 2020
+https://lucaskrell.github.io/
